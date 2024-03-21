@@ -2,16 +2,11 @@
 
 ## About Me
 
-Hello! I'm Michele, and I'm seeking stimulating job opportunities where I can leverage my problem-solving skills. I'm particularly interested in roles that offer opportunities for travel or relocation, especially to Spain.
+Hello! I'm Michele, an ambitious and skilled Automation and Control Engineer from the esteemed Politecnico di Milano, where I'm completing my Master's degree. With a foundation built on a Bachelor's degree in Automation Engineering, where I graduated with high honors, I've honed my skills in problem-solving, critical thinking, and innovative project management. Throughout my academic journey, I've been actively involved in research, team projects, and international exchanges, including an enriching Erasmus experience at Chalmers University of Technology.
 
-## Education
+As I approach the completion of my Master's program in April 2024, I am keenly seeking career opportunities that not only challenge me but also offer the chance to make significant contributions to my field. Specifically, I'm interested in exploring job opportunities in Spain, a country I'm drawn to for its rich culture, dynamic work environment, and potential for professional growth. My aim is to apply my expertise in automation, control engineering, and human-robot interaction (HRI) in a role that allows for creative problem-solving and innovation.
 
-- **Master in Automation and Control Engineering** - Politecnico di Milano (Sep. 2021 - Apr. 2024)
-  - Thesis: A one-year research on HRI via an intelligent touch system.
-  - Activities: Team member of the PoliMi Energy Boat team, selected student for the Alta Scuola Politecnica XVIII Cycle, and Erasmus exchange at Chalmers University of Technology.
-
-- **Bachelor in Automation Engineering** - Politecnico di Milano (Sep. 2018 - Sep. 2021)
-  - Graduated with a final grade of 109/110, engaged as a peer-to-peer tutor, and honored with multiple scholarships and the Best Freshmen Award.
+With proficiency in a range of IT skills, including advanced programming languages and engineering software, and a passion for collaborative projects, I am ready to embark on the next phase of my career. Whether it's in developing intelligent systems, enhancing automation processes, or contributing to groundbreaking projects, I am eager to bring my skills and enthusiasm to a forward-thinking team in Spain.
 
 ## Languages
 
@@ -21,13 +16,13 @@ Hello! I'm Michele, and I'm seeking stimulating job opportunities where I can le
 
 ## IT Skills
 
-- Proficient in: MS Office, Matlab & Simulink, LabView, Modelica, Spice, ROS, Arduino, Linux, and RobotStudio.
-- Programming Languages:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+###### Languages: <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/600px-C_Logo.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+###### OS: <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png"></code>
+
+###### Software: <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/600px-Matlab_Logo.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+###### Others: MySQL - MS Office - LabView - Modelica - Spice - RobotStudio
 
 ## Projects
 
@@ -36,8 +31,6 @@ Here are some of the projects I've worked on:
 - **Magnetic Levitation Project** (Feb. 2023 - Jun. 2023): Led the team and implemented control techniques for a complex system based on magnetic levitation. [View Repository](#)
 - **Santa Barbara 4.0 (ASP)** (Jan. 2022 - Oct. 2022): Managed the digital and technical aspects of modernising the Milan military barrack, focusing on sensor and security projects. [View Repository](#)
 - **MINES ParisTech - Extreme Value Statistics** (Apr. 2021): Completed an intensive course and prepared a final paper on Extreme Value Statistics using R. [View Repository](#)
-
-*Replace the `[#]` with actual links to your project repositories or documentation.*
 
 ## Activities & Interests
 

@@ -10,6 +10,9 @@ My technical expertise is complemented by demonstrated leadership and teamwork s
 - 💼 Are you looking for a new talented member for your team? Do reach, [email](mailto:micheleghisleni.job@gmail.com)
 - 💬 Do you want to know more about me? Check my [LinkedIn](https://www.linkedin.com/in/micheleghisleni99/).
 
+<p align="center"><em><strong>Warning:</strong> This account is for demonstration purposes only.</em></p>
+
+
 ## Languages and tools
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/600px-C_Logo.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1200px-Ros_logo.svg.png"></code> - <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/600px-Matlab_Logo.png"></code> <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>

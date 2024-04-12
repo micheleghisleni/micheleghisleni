@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Michele, a driven Automation and Control Engineer with a comprehensive background from the Politecnico di Milano. Native in Italian, fluent in English, and with intermediate proficiency in Spanish, I am now **seeking career opportunities in Spain**. My goal is to leverage my skills and education in a dynamic work environment where I can contribute to innovative projects and grow professionally.
+I am Michele, an Automation and Control Engineer with a comprehensive background from the Politecnico di Milano. While **seeking career opportunities in Spain**, my goal is to leverage my skills and education in a dynamic work environment where I can contribute to innovative projects and grow professionally.
 
 - 💼 Are you looking for a fresh talent to join your team? Do reach, [email](mailto:micheleghisleni.job@gmail.com)
 - 💬 Do you want to know more about me? Check my [LinkedIn](https://www.linkedin.com/in/micheleghisleni99/).
@@ -20,11 +20,20 @@ I am Michele, a driven Automation and Control Engineer with a comprehensive back
 
 Here are some of the projects I've worked on:
 
-- **Thesis Project**: A summary of my thesis project on the implementation of a touch interpretation system for HRI between a therapeutical robot and children with Autism Spectrum Disorder. [View Repository](https://github.com/micheleghisleni/Thesis-Project)
-- **Magnetic Levitation Project** (Feb. 2023 - Jun. 2023): Led the team and implemented control techniques for a complex system based on magnetic levitation. [View Repository](https://github.com/micheleghisleni/Magnetic-Levitation-Project)
-- **Energy Boat** (Oct. 2021 - Oct. 2023): Took part of the Politecnico di Milano Student Team in the MEMBC competition. [View Repository](https://github.com/micheleghisleni/Energy-Boat)
-- **Course Projects**: Projects developed during my master's degree. [View Repository](https://github.com/micheleghisleni/Course-Projects)
-- **Erasmus Projects**: Projects developed during my Erasmus study period. [View Repository](https://github.com/micheleghisleni/Erasmus-Projects)
+- **Thesis Project**: A summary of my thesis project on the implementation of a touch interpretation system for HRI between a therapeutical robot and children with Autism Spectrum Disorder. [View Repository](https://github.com/micheleghisleni/Thesis-Project)  
+  *Keywords*: Arduino, ROS, Data Analysis, Sensors.
+
+- **Magnetic Levitation Project** (Feb. 2023 - Jun. 2023): Led the team and implemented control techniques for a complex system based on magnetic levitation. [View Repository](https://github.com/micheleghisleni/Magnetic-Levitation-Project)  
+  *Keywords*: Matlab, Simulink, Control, Electromagnetism.
+
+- **Energy Boat** (Oct. 2021 - Oct. 2023): Took part of the Politecnico di Milano Student Team in the MEMBC competition. [View Repository](https://github.com/micheleghisleni/Energy-Boat)  
+  *Keywords*: Python, Data Analysis, Peer-to-peer.
+
+- **Course Projects**: Projects developed during my master's degree. [View Repository](https://github.com/micheleghisleni/Course-Projects)  
+  *Keywords*: Control, Modelling, Mechanical Analysis, Operational research.
+
+- **Erasmus Projects**: Projects developed during my Erasmus study period. [View Repository](https://github.com/micheleghisleni/Erasmus-Projects)  
+    *Keywords*: Modelica, Simulation, Electric Drive System, Image Analysis.
 
 ## Others Interests
 

@@ -23,7 +23,7 @@ My technical expertise is complemented by demonstrated leadership and teamwork s
 
 Here are some of the projects I've worked on:
 
-- **Magnetic Levitation Project** (Feb. 2023 - Jun. 2023): Led the team and implemented control techniques for a complex system based on magnetic levitation. [View Repository](#)
+- **Magnetic Levitation Project** (Feb. 2023 - Jun. 2023): Led the team and implemented control techniques for a complex system based on magnetic levitation. [View Repository](https://github.com/micheleghisleni/Magnetic-Levitation-Project)
 - **Santa Barbara 4.0 (ASP)** (Jan. 2022 - Oct. 2022): Managed the digital and technical aspects of modernising the Milan military barrack, focusing on sensor and security projects. [View Repository](#)
 - **MINES ParisTech - Extreme Value Statistics** (Apr. 2021): Completed an intensive course and prepared a final paper on Extreme Value Statistics using R. [View Repository](#)
 

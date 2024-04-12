@@ -2,10 +2,7 @@
 
 ## About Me
 
-I am Michele, a driven Automation and Control Engineer with a comprehensive background from the Politecnico di Milano. My education has equipped me with a robust skill set in problem-solving, critical analysis, and the application of advanced technologies in automation and robotics.
-
-My technical expertise is complemented by demonstrated leadership and teamwork skills, gained through participation in diverse team projects and research efforts, notably with the Physis PEB team and during my Erasmus exchange. Native in Italian, fluent in English, and with intermediate proficiency in Spanish, I am now **seeking career opportunities in Spain**. My goal is to leverage my skills and education in a dynamic work environment where I can contribute to innovative projects and grow professionally.
-
+I am Michele, a driven Automation and Control Engineer with a comprehensive background from the Politecnico di Milano. Native in Italian, fluent in English, and with intermediate proficiency in Spanish, I am now **seeking career opportunities in Spain**. My goal is to leverage my skills and education in a dynamic work environment where I can contribute to innovative projects and grow professionally.
 
 - 💼 Are you looking for a fresh talent to join your team? Do reach, [email](mailto:micheleghisleni.job@gmail.com)
 - 💬 Do you want to know more about me? Check my [LinkedIn](https://www.linkedin.com/in/micheleghisleni99/).
